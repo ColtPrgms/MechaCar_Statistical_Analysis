@@ -21,7 +21,7 @@
 &nbsp;
 
 #### Summary of Linear Regression Model
-![Fig1](
+![Fig1](https://github.com/ColtPrgms/MechaCar_Statistical_Analysis/blob/main/Images/Figure1.png)
  
  ---
 &nbsp;
@@ -34,11 +34,11 @@
 &nbsp;
 
 #### Total Summary Table
-![Fig2](
+![Fig2](https://github.com/ColtPrgms/MechaCar_Statistical_Analysis/blob/main/Images/Figure2.png)
 &nbsp;
 
 #### Lot Summary Table
-![Fig3](
+![Fig3](https://github.com/ColtPrgms/MechaCar_Statistical_Analysis/blob/main/Images/Figure3.png)
  
 --- 
 &nbsp;
@@ -48,22 +48,30 @@
  
 #### Combined Lot Test
 The p-value of the combined lot test is 1. This test shows that there is a statistical significance to the population mean, as the p-value is above 0.05.
-![Fig4](
+&nbsp;
+
+![Fig4](https://github.com/ColtPrgms/MechaCar_Statistical_Analysis/blob/main/Images/Combined_Lots_Test.png)
 &nbsp;
  
 #### Lot 1 Test
 The p-value of the Lot 1 test is 1.568e-11. This test shows that there is not a statistically significance to the population mean, as the p-value is below 0.05.
-![Fig5](
+&nbsp;
+
+![Fig5](https://github.com/ColtPrgms/MechaCar_Statistical_Analysis/blob/main/Images/Lot%201%20Test.png)
 &nbsp;
 
 #### Lot 2 Test 
 The p-value of the Lot 2 test is 0.0006. This test shows that there is not a statistically significance to the population mean, as the p-value is below 0.05.
-![Fig6](
+&nbsp;
+
+![Fig6](https://github.com/ColtPrgms/MechaCar_Statistical_Analysis/blob/main/Images/Lot%202%20Test.png)
 &nbsp;
 
 #### Lot 3 Test
 The p-value of the Lot 3 test is 0.1589. This test shows that there is a statistically significance to the population mean, as the p-value is above 0.05.
-![Fig7](
+&nbsp;
+
+![Fig7](https://github.com/ColtPrgms/MechaCar_Statistical_Analysis/blob/main/Images/Lot%203%20Test.png)
  
 --- 
 &nbsp;
