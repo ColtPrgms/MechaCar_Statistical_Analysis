@@ -3,8 +3,6 @@
 ##### Colt Korth
 &nbsp;
 
-&nbsp;
-
 ## Linear Regression to Predict MPG
 &nbsp;
 
@@ -85,8 +83,12 @@ To stay competitive with the current market there should be a statistical study 
 * MPG (city)
 * Safety Rating
 * Avg Repair Costs
+&nbsp;
+
 The Hypothesis for this study would be:
 * Null hypothesis: MechaCar performance across these metrics is the same vs competitor's vehicles and don't have a significant difference.
 * Alternative Hypothesis: MechaCar performance across these metrics is greater than competitor's vehicles and has significant differences.
+&nbsp;
+
 In order to test these hypotheses we will use multiple linear regression to show the impact each metric has against MechaCar vs its competitors. Also t-tests to test sample means for statistical significance. In order to run these tests, there will need to be data on more than 40 vehicles from MechaCar and their competitors that have data on the previously listed metrics. 
  
